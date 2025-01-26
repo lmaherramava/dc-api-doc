@@ -4,3 +4,6 @@
    ---
    # Welcome to My Awesome Site
    This is my first Jekyll site hosted on GitHub Pages! 
+
+   [Получение статуса запроса](getRequestStatus.md)
+
