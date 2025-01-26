@@ -7,3 +7,4 @@
 
    [Получение статуса запроса](getRequestStatus.md)
 
+   [OpenAPI спецификация](openapi.yaml)
