@@ -5,6 +5,6 @@
    # Welcome to My Awesome Site
    This is my first Jekyll site hosted on GitHub Pages! 
 
-   [Получение статуса запроса](getRequestStatus.md)
+   [Получение статуса запроса](dc-api-doc/getRequestStatus.md)
 
-   [OpenAPI спецификация](openapi.yaml)
+   [OpenAPI спецификация](dc-api-doc/openapi.yaml)
